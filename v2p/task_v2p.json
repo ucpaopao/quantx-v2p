@@ -172,7 +172,7 @@
       "time": "*/30 * * * *",
       "job": {
         "type": "runjs",
-        "target": "https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js"
+        "target": "https://raw.githubusercontent.com/Sunert/Script/master/Task/baidu_speed.js"
       }
     },
   {
